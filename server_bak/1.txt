@@ -1,0 +1,6 @@
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver 127.0.0.1:8888
+python manage.py startapp matchuser
+python manage.py startapp myweapon
+python manage.py startapp scene
